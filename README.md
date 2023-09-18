@@ -1,2 +1,2 @@
-# test
-소프트웨어개발실무
+# Hello
+I'm Minhoo Kim (GBApple)
